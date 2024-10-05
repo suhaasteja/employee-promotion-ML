@@ -1,4 +1,3 @@
-Here’s an updated version of your **README** that includes the new **Streamlit** section, a placeholder for the **screenshot**, and a link to your **GitHub repository**:
 
 ---
 
